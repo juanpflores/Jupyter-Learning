@@ -1,3 +1,3 @@
 
 
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# GitHub ♥️ Jupyter Notebooks
